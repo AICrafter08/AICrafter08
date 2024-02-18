@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔍 Data Scientist passionate about developing innovative solutions and enhancing user experiences.<br>🖥️ Proficient in a diverse set of programming languages and frameworks, including Python, PySpark, and SQL.<br>🧠 Expertise in advanced technologies and domains such as Keras, PyTorch, TensorFlow, Computer Vision, Machine Learning, Deep Learning, and Natural Language Processing (NLP).<br>☁️ Skilled in cloud computing platforms, with proficiency in Azure and Google Cloud Platform (GCP).<br>🌱 Eager to embrace new challenges, continuously learn, and grow in the field of data science and artificial intelligence.
+<br>🔍 Data Scientist passionate about developing innovative solutions and enhancing user experiences.<br>🖥️ Proficient in a diverse set of programming languages and frameworks, including Python, PySpark, and SQL.<br>🧠 Expertise in advanced technologies and domains such as Keras, PyTorch, TensorFlow, Computer Vision, ML/DL, and NLP.<br>☁️ Skilled in cloud computing platforms, with proficiency in Azure and Google Cloud Platform (GCP).<br>🌱 Eager to embrace new challenges, continuously learn, and grow in the field of data science and artificial intelligence.
 
 
 ## 🌐 Socials:
